@@ -1,0 +1,9 @@
+==============================================
+000webhost : azamhossen01@gmail.com
+ci_online_exam : 
+auto111222333
+pass : 123456789abc
+
+db name : id12450443_ci_online_exam
+db_user : id12450443_ci_online_exam
+==============================================
